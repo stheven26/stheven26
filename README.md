@@ -21,7 +21,7 @@
 </p>
 
 ## 📊 Github Stats 
-![Stheven github stats](https://github-readme-stats.vercel.app/api?username=hafiedh&theme=nord&show_icons=true&count_private=true)
+![Stheven github stats](https://github-readme-stats.vercel.app/api?username=stheven26&theme=nord&show_icons=true&count_private=true)
 
 ## 📊 Github Activity Graph Stheven26
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stheven26)](https://github.com/ashutosh00710/github-readme-activity-graph)
