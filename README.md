@@ -5,7 +5,7 @@
 ### Backend engineer passionate about Go
 
 <a href="mailto:sthevenerlanggasanjaya@gmail.com"><img src="https://img.shields.io/badge/Email-sthevenerlanggasanjaya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=stheven26&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/stheven26.svg?style=for-the-badge&label=Profile%20views&color=0e75b6" alt="Profile views" />
 
 </div>
 
@@ -32,10 +32,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stheven26&theme=nord&layout=compact&hide_border=true" alt="Top languages" />
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stheven26&theme=nord&hide_border=true" alt="Activity graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stheven26/stheven26/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/stheven26/stheven26/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
 </div>
