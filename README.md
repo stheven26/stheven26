@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Stheven Erlangga Sanjaya</h1>
-<h3 align="center">A passionate in golang backend</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiedh&label=Profile%20views&color=0e75b6&style=flat" alt="stheven" /> </p>
+# Hi 👋, I'm Stheven Erlangga Sanjaya
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafiedh" alt="stheven" /></a> </p>
+### Backend engineer passionate about Go
 
-- 🔭 Self-Learning
+<a href="mailto:sthevenerlanggasanjaya@gmail.com"><img src="https://img.shields.io/badge/Email-sthevenerlanggasanjaya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=stheven26&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-- 🌱 I’m currently learning **golang backend**
-- :handshake: I’m currently Build **Catazas Indonesia**
-- 👨‍💻 All of my projects are available at [https://github.com/stheven26](https://github.com/stheven26)
+</div>
 
-- 💬 Ask me about **golang backend**
+---
 
-- 📫 How to reach me **sthevenerlanggasanjaya@gmail.com**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sthev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sthev_" height="30" width="40" /></a>
+- 🔭 Self-learning, always exploring new things
+- 🌱 Currently deepening my skills in **Go backend development**
+- 💬 Ask me about **Go**, APIs, and backend architecture
+- 📫 Reach me at **[sthevenerlanggasanjaya@gmail.com](mailto:sthevenerlanggasanjaya@gmail.com)**
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 Github Stats 
-![Stheven github stats](https://github-readme-stats.vercel.app/api?username=stheven26&theme=nord&show_icons=true&count_private=true)
+## 📊 GitHub Stats
 
-## 📊 Github Activity Graph Stheven26
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stheven26)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stheven26&theme=nord&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stheven26&theme=nord&layout=compact&hide_border=true" alt="Top languages" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stheven26&theme=nord&hide_border=true" alt="Activity graph" />
+  </a>
+</div>
